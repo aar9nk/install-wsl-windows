@@ -27,15 +27,6 @@ If **Feature update to Windows 10** shows up, click **Download and Install** und
 
 * Final Video: [Video 6](https://generationinitiative.zoom.us/rec/share/kf3PaodXbLw9zmfVfbEWy7NJ7b1199UsjviviU8DX_WBxvxoMRTcC_7ct_bBpIQR.g0biI3M23lrjweUo?startTime=1604624336000)
  
-### After All Videos:
-Open Ubuntu from the start menu:
-
-* Paste `sudo apt install npm` and press Enter
-(you might be required to type in password)
-
-* Wait for it to complete
-
-
 ## Links and References
 
 1. Chrome:
