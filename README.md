@@ -4,7 +4,9 @@ A quick setup guide for the WSL using Ubuntu on a windows machine
 ## Before You Start
 
 Update windows by opening the start menu and searching `Windows Update` 
-Click `Check for updates`
+
+Click **Check for updates**
+
 If **Feature update to Windows 10** shows up, click `Download and Install` underneath.
 
 ![Extra Updates](./wslupdate.png) 
