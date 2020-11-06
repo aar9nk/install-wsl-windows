@@ -38,44 +38,41 @@ Open Ubuntu from the start menu:
 
 ## Links and References
 
-Chrome:
+1. Chrome:
 https://www.google.com.au/chrome/ 
  
-`dism.exe /online /enable-feature /featurename:Microsoft-Windows-Subsystem-Linux /all /norestart`
+2. `dism.exe /online /enable-feature /featurename:Microsoft-Windows-Subsystem-Linux /all /norestart`
 
 
-`dism.exe /online /enable-feature /featurename:VirtualMachinePlatform /all /norestart`
+3. `dism.exe /online /enable-feature /featurename:VirtualMachinePlatform /all /norestart`
 
 
-`wsl --set-default-version 2`
+4. `wsl --set-default-version 2`
 
 4 b: 
  https://docs.microsoft.com/en-gb/windows/wsl/wsl2-kernel
 
-Ubuntu:
+5. Ubuntu:
  https://www.microsoft.com/store/apps/9n6svws3rx71
  
-`sudo apt-get update`
+6. `sudo apt-get update`
 
-`sudo apt-get install nodejs`
+7. `sudo apt-get install nodejs`
 
-Visual Studio Code: 
-https://code.visualstudio.com/ 
-
-Visual Studio Code Extension: 
-https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.vscode-remote-extensionpack
-
-Postman:  https://chrome.google.com/webstore/detail/postman/fhbjgbiflinjbdggehcddcbncdddomop
-
-Install NPM:  
+8. Install NPM:  
 `sudo apt install npm `
 
-This is all one command: 
+9. Visual Studio Code: 
+https://code.visualstudio.com/ 
+
+10. Visual Studio Code Extension: 
+https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.vscode-remote-extensionpack
+
+11. Postman:  https://chrome.google.com/webstore/detail/postman/fhbjgbiflinjbdggehcddcbncdddomop
+
+12. This is all one command: 
 ` curl "https://raw.githubusercontent.com/aar9nk/terminal-files/master/{.bashrc,.git-completion.bash,.git-prompt.sh,.profile}" -o ~/#1 && rm -f ~/.bash_profile`
 
-## Test Your Machine! 
+13. `mkdir jwd && cd jwd`
 
-
-`mkdir jwd && cd jwd`
-
-`code .`
+14. `code .`
