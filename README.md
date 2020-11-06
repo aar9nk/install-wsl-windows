@@ -19,13 +19,13 @@ If **Feature update to Windows 10** shows up, click **Download and Install** und
  
 * After Restart: [Video 2](https://generationinitiative.zoom.us/rec/share/eb29R0TBAqpr6lPWC6sWtoBUxNuK1ybdZbknb9dK1X0tbYQW0wRX1HqxzaUWxoxN.G5PBRBcy6-X3Y1kz?startTime=1604619264000)
  
-* After Updates: [Video 3]()
+* After Updates: [Video 3](https://generationinitiative.zoom.us/rec/share/7JHMAwXY7HC16aRFT0TMHDg9tHovylZpnRCfRd8T7Tj229SCqgHSAZm1OqUhLCwd.tG6CZclu-O3y-Log?startTime=1604622222000)
  
-* After Restart: [Video 4]()
+* After Restart: [Video 4](https://generationinitiative.zoom.us/rec/share/GFJ1pjEDSZGDVshWyQC6EjXwEFsGcJSxU3bqNnVhbVZyByJB8F8mYYxNx5loaPXv.Sj23RmWHzh-XE8dT?startTime=1604622554000)
 
-* After Restart/After Skip: [Video 5]()
+* After Restart/After Errors: [Video 5](https://generationinitiative.zoom.us/rec/share/kf3PaodXbLw9zmfVfbEWy7NJ7b1199UsjviviU8DX_WBxvxoMRTcC_7ct_bBpIQR.g0biI3M23lrjweUo?startTime=1604623236000)
 
-* Final Video NPM: [Video 6]()
+* Final Video: [Video 6](https://generationinitiative.zoom.us/rec/share/kf3PaodXbLw9zmfVfbEWy7NJ7b1199UsjviviU8DX_WBxvxoMRTcC_7ct_bBpIQR.g0biI3M23lrjweUo?startTime=1604624336000)
  
 ### After All Videos:
 Open Ubuntu from the start menu:
@@ -59,8 +59,7 @@ https://www.google.com.au/chrome/
 
 7. `sudo apt-get install nodejs`
 
-8. Install NPM:  
-`sudo apt install npm `
+8. `sudo apt install npm `
 
 9. Visual Studio Code: 
 https://code.visualstudio.com/ 
@@ -76,3 +75,12 @@ https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.vscode-remo
 13. `mkdir jwd && cd jwd`
 
 14. `code .`
+
+## Errors
+
+* Press start and type: `winver`
+
+Make sure you come with the screenshot of the build number to make sure your computer is up to date! 
+
+Reach out on slack! But the most likely case is not updating your Windows and you will be sent back to the start so make sure to follow all the steps!!
+
