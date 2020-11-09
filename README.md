@@ -13,7 +13,7 @@ If **Feature update to Windows 10** shows up, click **Download and Install** und
 
  
 
-## Recording
+## Recordings
 
 * Start here: [Video 1](https://generationinitiative.zoom.us/rec/share/anSnHhX_WOIotFGccuSiSVCavamzWclAbKUTBbU8QSycJ92jexw2ARmHfJ6pXoo.qTaAeXvMN9mt654B?startTime=1604618793000)
  
