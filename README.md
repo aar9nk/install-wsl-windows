@@ -75,3 +75,9 @@ Make sure you come with the screenshot of the build number to make sure your com
 
 Reach out on slack! But the most likely case is not updating your Windows and you will be sent back to the start so make sure to follow all the steps!!
 
+## Going forward
+This will all become clear after our terminal and git/version control lessons, where we will highlight these issues again. 
+* Do not edit or create `.bash_profile`  *even if a course says to!*
+* Make any changes for your `.bash_profile` inside the `.bashrc` file instead. 
+* **.bashrc is now your .bash_profile!**  This is to allow us to use the `open FILENAME` command, which will open our webpages up in our chrome browser! 
+* If you are editing `.bashrc` Make any edits right at the bottom of the file, you will see a message saying "Anything extra goes down here!"
