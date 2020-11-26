@@ -9,7 +9,7 @@ Click **Check for updates**
 
 If **Feature update to Windows 10** shows up, click **Download and Install** underneath.
 
-![Extra Updates](./wslupdate.png) 
+![Extra Updates](./version20h2.JPG) 
 
  
 
